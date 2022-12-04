@@ -1,0 +1,127 @@
+@font-face {
+	font-family: 'ALK Rounded Nusx Med';
+	src: url('../fonts/alk-rounded-nusx-med-webfont.woff2') format('woff2'); /* Super Modern Browsers */
+ 
+			 
+			 
+}
+@font-face {
+	font-family: 'ALK Rounded Mtav Med';
+	
+	src: url('../fonts/alk-rounded-mtav-med-webfont.woff2') format('woff2'); /* Super Modern Browsers */
+}
+
+@font-face {
+	font-family: 'ALK Life';
+	src: url('../fonts/alk-life-webfont.woff2') format('woff2'); /* Super Modern Browsers */
+	
+			
+}
+
+
+		
+
+
+a{
+	text-decoration: none;
+	color: rgb(168, 28, 28);
+
+}
+body{
+	color: rgb(0, 0, 0);
+	text-align: center;
+	background-color: rgb(135, 196, 65);
+	background-image: url(/image/abstract-background-with-monochrome-low-poly-design_1048-14453.webp);
+	background-repeat: no-repeat;
+	
+	
+
+}
+h1{
+	color: black;
+}
+h1.mama::first-letter{
+	color: rgb(170, 0, 0);
+	font-size: 50px;
+}
+h2{
+	color: black;
+}
+
+
+p::first-letter{
+color: red;
+font-size: 35px;
+
+}
+p::first-line{
+	font-size: 20px;
+	color: rgb(0, 0, 0);
+}
+
+a:hover{
+	color: rgb(255, 0, 34);
+	font-size: 30px;
+}
+
+.s1{
+
+	font-family: 'Courier New', Courier, monospace;
+}
+.s2{
+	font-family: 'Courier New', Courier, monospace;
+}
+p{
+	width: 700px;
+	text-align: justify;
+	text-indent: 5%;
+	border-style: ridge;
+	padding: 10px 10px;
+	border-color: black;
+	position: relative;
+	left: 300px;
+	
+	
+
+}
+
+p.gogo{
+	font-family: 'ALK Rounded Nusx Med';
+}
+p.bichi{
+font-family: 'ALK Rounded Mtav Med';
+
+
+}
+p.deda{
+
+	font-family: 'ALK Life';
+}
+h1.mama{
+
+	font-family: 'ALK Rounded Mtav Med';
+
+}
+h2.shvili{
+
+	font-family: 'ALK Rounded Mtav Med';
+
+}
+
+h3.da{
+
+	font-family: 'ALK Rounded Mtav Med';
+
+}
+a.dzma{
+
+	font-family: 'ALK Rounded Mtav Med';
+
+}
+
+h1.bebia{
+    text-align: left;
+		font-family: 'ALK Rounded Mtav Med';
+		position: relative;
+		left: 530px;
+}
